@@ -1,5 +1,5 @@
 {
-  "name": "@kollateral/kollateral",
+  "name": "@andrekorol/kollateral",
   "version": "0.1.2",
   "main": "dist/kollateral.js",
   "types": "dist/kollateral.d.ts",
@@ -10,8 +10,8 @@
     "generate": "./scripts/generate.sh",
     "prepare": "rm -rf dist/; npm run build"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "andrekorol",
+  "license": "Apache-2.0",
   "devDependencies": {
     "ts-loader": "^5.3.3",
     "typechain": "^1.0.3",

@@ -1,6 +1,6 @@
 {
-  "name": "@kollateral/contracts",
-  "version": "0.0.0",
+  "name": "@andrekorol/kollateral-contracts",
+  "version": "0.1.0",
   "private": false,
   "description": "",
   "files": [
@@ -12,10 +12,10 @@
     "compile": "truffle compile",
     "test": "mocha --timeout 10000 --exit --recursive test"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "andrekorol",
+  "license": "Apache-2.0",
   "dependencies": {
-    "@openzeppelin/contracts": "3.2.1-solc-0.7"
+    "@openzeppelin/contracts": "^3.3.0-solc-0.7"
   },
   "devDependencies": {
     "@openzeppelin/test-environment": "^0.1.2",
