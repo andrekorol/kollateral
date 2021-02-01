@@ -12,8 +12,23 @@
     "compile": "truffle compile",
     "test": "mocha --timeout 10000 --exit --recursive test"
   },
-  "author": "andrekorol",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andrekorol/kollateral.git"
+  },
+  "keywords": [
+    "flash-loans",
+    "ethereum",
+    "DeFI",
+    "solidity",
+    "web3"
+  ],
+  "author": "Andre Korol <andrekorol@protonmail.com> (https://github.com/andrekorol)",
   "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/andrekorol/kollateral/issues"
+  },
+  "homepage": "https://github.com/andrekorol/kollateral",
   "dependencies": {
     "@openzeppelin/contracts": "^3.3.0-solc-0.7"
   },

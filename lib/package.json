@@ -10,8 +10,23 @@
     "generate": "./scripts/generate.sh",
     "prepare": "rm -rf dist/; npm run build"
   },
-  "author": "andrekorol",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andrekorol/kollateral.git"
+  },
+  "keywords": [
+    "flash-loans",
+    "ethereum",
+    "DeFI",
+    "solidity",
+    "web3"
+  ],
+  "author": "Andre Korol <andrekorol@protonmail.com> (https://github.com/andrekorol)",
   "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/andrekorol/kollateral/issues"
+  },
+  "homepage": "https://github.com/andrekorol/kollateral",
   "devDependencies": {
     "ts-loader": "^5.3.3",
     "typechain": "^1.0.3",
