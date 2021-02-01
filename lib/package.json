@@ -1,6 +1,6 @@
 {
   "name": "@andrekorol/kollateral",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "main": "dist/kollateral.js",
   "types": "dist/kollateral.d.ts",
   "description": "Typescript library for Kollateral, the flash loan building block",
