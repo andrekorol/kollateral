@@ -2,7 +2,7 @@
   "name": "@andrekorol/kollateral-contracts",
   "version": "0.1.0",
   "private": false,
-  "description": "",
+  "description": "Kollateral protocol, the flash loan building block",
   "files": [
     "/contracts/**/*.sol",
     "/build/contracts/*.json"
