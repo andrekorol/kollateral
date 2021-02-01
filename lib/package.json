@@ -3,7 +3,6 @@
   "version": "0.1.2",
   "main": "dist/kollateral.js",
   "types": "dist/kollateral.d.ts",
-  "private": "false",
   "description": "Typescript library for Kollateral, the flash loan building block",
   "scripts": {
     "copy-abis": "./scripts/copy_abis.sh",
